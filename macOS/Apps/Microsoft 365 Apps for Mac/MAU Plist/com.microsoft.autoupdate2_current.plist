@@ -2,8 +2,6 @@
 <string>RequiredDataOnly</string>
 <key>ChannelName</key>
 <string>Current</string>
-<key>UpdateCache</key>
-<string>http://192.168.68.139/MAUCache</string>
 <key>HowToCheck</key>
 <string>AutomaticDownload</string>
 <key>DisableInsiderCheckbox</key>
